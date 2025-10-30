@@ -5,10 +5,10 @@
 [![Pentaho](https://img.shields.io/badge/Pentaho-DI-orange.svg)](https://www.hitachivantara.com/)
 
 <p align="center">
-  <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/download.png" alt="PostgreSQL" width="80" height="80"/>
+  <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/download.png" alt="PostgreSQL" width="100" height="100"/>
   <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/pdi.png" alt="Pentaho" width="80" height="80"/>
   <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/logo.png" alt="DrawIO" width="80" height="80"/>
-  <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/png-clipart-metabase-logo-landscape-tech-companies.png" alt="Metabase" width="80" height="80"/>
+  <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/png-clipart-metabase-logo-landscape-tech-companies.png" alt="Metabase" width="100" height="100"/>
 </p>
 
 > A comprehensive data warehouse solution for coffee sales analytics using modern ETL and BI tools.
@@ -261,5 +261,6 @@ The schema supports complex queries like:
 ## 🙏 Acknowledgments
 - Built with modern data warehousing best practices
 - Special thanks to the Pentaho and Metabase communities
+
 
 
