@@ -22,8 +22,7 @@
 - [Usage](#-usage)
 - [Database Schema](#-database-schema)
 - [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
-- [License](#-license)
+
 
 ## 🎯 Overview
 This team project focuses on building a data warehouse solution for coffee sales analysis. The project includes ETL (Extract, Transform, Load) processes using Pentaho Data Integration (Kettle) to create dimensional models for customers, products, and sales facts. It demonstrates data warehousing concepts through practical implementation of star schema design and interactive dashboard visualization.
@@ -220,6 +219,14 @@ The schema supports complex queries like:
 - Metabase (for dashboard visualization)
 - PostgreSQL (database server)
 - Java Runtime Environment (JRE)
+
+## 🚀 Quick Start
+
+<p align="center">
+  <a href="#-installation--setup">
+    <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/download.png" alt="Get Started" width="200"/>
+  </a>
+</p>
 
 ## 🚀 Installation & Setup
 1. **Install Pentaho Data Integration**:
