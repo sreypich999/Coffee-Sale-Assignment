@@ -5,7 +5,7 @@
 [![Pentaho](https://img.shields.io/badge/Pentaho-DI-orange.svg)](https://www.hitachivantara.com/)
 
 <p align="center">
-  <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/logo.png" alt="PostgreSQL" width="80" height="80"/>
+  <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/download.png" alt="PostgreSQL" width="80" height="80"/>
   <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/pdi.png" alt="Pentaho" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/jgraph/drawio/master/src/main/webapp/images/drawio-logo.svg" alt="DrawIO" width="80" height="80"/>
   <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/png-clipart-metabase-logo-landscape-tech-companies.png" alt="Metabase" width="80" height="80"/>
@@ -219,14 +219,6 @@ The schema supports complex queries like:
 - Metabase (for dashboard visualization)
 - PostgreSQL (database server)
 - Java Runtime Environment (JRE)
-
-## 🚀 Quick Start
-
-<p align="center">
-  <a href="#-installation--setup">
-    <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/download.png" alt="Get Started" width="200"/>
-  </a>
-</p>
 
 ## 🚀 Installation & Setup
 1. **Install Pentaho Data Integration**:
