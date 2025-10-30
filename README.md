@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/download.png" alt="PostgreSQL" width="80" height="80"/>
   <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/pdi.png" alt="Pentaho" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/jgraph/drawio/master/src/main/webapp/images/drawio-logo.svg" alt="DrawIO" width="80" height="80"/>
+  <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/logo.png" alt="DrawIO" width="80" height="80"/>
   <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/png-clipart-metabase-logo-landscape-tech-companies.png" alt="Metabase" width="80" height="80"/>
 </p>
 
@@ -261,4 +261,5 @@ The schema supports complex queries like:
 ## 🙏 Acknowledgments
 - Built with modern data warehousing best practices
 - Special thanks to the Pentaho and Metabase communities
+
 
