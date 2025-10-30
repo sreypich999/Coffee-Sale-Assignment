@@ -1,17 +1,36 @@
-# Coffee Sale Assignment
+# ☕ Coffee Sales Data Warehouse
 
-## Project Overview
-This team project focuses on building a data warehouse solution for coffee sales analysis. The project includes ETL (Extract, Transform, Load) processes using Pentaho Data Integration (Kettle) to create dimensional models for customers, products, and sales facts. It demonstrates data warehousing concepts through practical implementation of star schema design and dashboard visualization.
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-blue.svg)](https://www.postgresql.org/)
+[![Pentaho](https://img.shields.io/badge/Pentaho-DI-orange.svg)](https://www.hitachivantara.com/)
 
-## Features
-- **ETL Processes**: Automated data extraction and transformation using Kettle transformations (.ktr files)
-- **Dimensional Modeling**:
+> A comprehensive data warehouse solution for coffee sales analytics using modern ETL and BI tools.
+
+## 📋 Table of Contents
+- [Overview](#-overview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Prerequisites](#-prerequisites)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Database Schema](#-database-schema)
+- [Project Structure](#-project-structure)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+## 🎯 Overview
+This team project focuses on building a data warehouse solution for coffee sales analysis. The project includes ETL (Extract, Transform, Load) processes using Pentaho Data Integration (Kettle) to create dimensional models for customers, products, and sales facts. It demonstrates data warehousing concepts through practical implementation of star schema design and interactive dashboard visualization.
+
+## ✨ Features
+- **🔄 ETL Pipeline**: Automated data extraction and transformation using Kettle transformations (.ktr files)
+- **📊 Dimensional Modeling**:
   - Customer dimension (dimcustomer.ktr)
   - Product dimension (dimproduct.ktr)
   - Sales fact table (Fact_sale1.ktr)
-- **Data Sources**: Customer data, product catalogs, and sales orders
-- **Dashboards**: Interactive visualizations for sales and product analytics
-- **Database Schema**: SQL scripts for creating the data warehouse structure
+- **📈 Analytics Ready**: Pre-built queries for sales performance, customer segmentation, and product analysis
+- **🎨 Interactive Dashboards**: Metabase-powered visualizations for real-time insights
+- **🏗️ Star Schema Design**: Optimized for analytical queries and reporting
+- **🔗 Data Integration**: Seamless connection between operational data and analytical views
 
 ## Database Schema Design
 
@@ -160,7 +179,7 @@ The schema supports complex queries like:
 - Customer segmentation (loyalty card analysis)
 - Temporal trends (sale_date aggregations)
 
-## File Structure
+## 📁 Project Structure
 - `Coffee.sql` - Database schema and table creation scripts
 - `customers .ktr` - Customer data ETL transformation
 - `dimcustomer.ktr` - Customer dimension processing
@@ -174,28 +193,42 @@ The schema supports complex queries like:
 - `Product dashboard.pdf` - Product analytics dashboard
 - `Sales dashboard (1).pdf` - Sales performance dashboard
 
-## Prerequisites
+## 🛠️ Tech Stack
+- **ETL & Data Integration**: Pentaho Data Integration (Kettle)
+- **Database**: PostgreSQL 14+
+- **Visualization**: Metabase
+- **Diagrams**: DrawIO (diagrams.net)
+- **Query Language**: SQL
+- **Architecture**: Star Schema Data Warehouse
+
+## 📊 Key Metrics
+- Customer segmentation by geography and loyalty status
+- Product performance analysis by coffee type and roast
+- Sales trend analysis with temporal dimensions
+- Profit margin calculations and price optimization
+
+## 📋 Prerequisites
 - Pentaho Data Integration (PDI) / Kettle (for ETL)
 - DrawIO (for data architecture diagrams)
 - Metabase (for dashboard visualization)
 - PostgreSQL (database server)
 - Java Runtime Environment (JRE)
 
-## Installation & Setup
+## 🚀 Installation & Setup
 1. **Install Pentaho Data Integration**:
-    - Download and install PDI from the official Pentaho website
+    - Download and install PDI from [Hitachi Vantara Pentaho](https://www.hitachivantara.com/en-us/products/data-management-analytics/pentaho-platform/pentaho-data-integration.html)
     - Ensure Java is properly configured
 
 2. **Install DrawIO**:
-    - Download DrawIO desktop application or use web version
+    - Download DrawIO desktop application from [diagrams.net](https://www.diagrams.net/) or use the web version
     - Use for creating data flow and architecture diagrams
 
 3. **Install Metabase**:
-    - Download and install Metabase from the official website
+    - Download and install Metabase from [metabase.com](https://www.metabase.com/)
     - Configure connection to PostgreSQL database
 
 4. **Database Setup**:
-    - Install PostgreSQL server
+    - Install PostgreSQL server from [postgresql.org](https://www.postgresql.org/)
     - Create a new database for the coffee sales data warehouse
     - Run the `Coffee.sql` script to create tables and schema
 
@@ -204,7 +237,7 @@ The schema supports complex queries like:
     - Update PostgreSQL database connection settings in each transformation
     - Configure file paths for input data sources
 
-## Usage
+## 📖 Usage
 1. **Run ETL Processes**:
     - Execute transformations in order: customers → products → orders → dimensions → facts
     - Monitor job execution in Spoon
@@ -212,9 +245,14 @@ The schema supports complex queries like:
 2. **Data Loading**:
     - Ensure source data files are placed in the designated input directories
     - Run the Kettle jobs to populate the data warehouse
-
 3. **Dashboard Access**:
     - Use Metabase to create interactive dashboards connected to PostgreSQL
     - Open the provided PDF dashboard files for static visualizations
     - Connect Metabase to the database for real-time data access
+
+
+
+## 🙏 Acknowledgments
+- Built with modern data warehousing best practices
+- Special thanks to the Pentaho and Metabase communities
 
