@@ -4,6 +4,13 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-blue.svg)](https://www.postgresql.org/)
 [![Pentaho](https://img.shields.io/badge/Pentaho-DI-orange.svg)](https://www.hitachivantara.com/)
 
+<p align="center">
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="80" height="80"/>
+  <img src="https://avatars.githubusercontent.com/u/5635139?s=200&v=4" alt="Pentaho" width="80" height="80"/>
+  <img src="https://avatars.githubusercontent.com/u/870029?s=200&v=4" alt="DrawIO" width="80" height="80"/>
+  <img src="https://avatars.githubusercontent.com/u/1059044?s=200&v=4" alt="Metabase" width="80" height="80"/>
+</p>
+
 > A comprehensive data warehouse solution for coffee sales analytics using modern ETL and BI tools.
 
 ## 📋 Table of Contents
@@ -249,7 +256,6 @@ The schema supports complex queries like:
     - Use Metabase to create interactive dashboards connected to PostgreSQL
     - Open the provided PDF dashboard files for static visualizations
     - Connect Metabase to the database for real-time data access
-
 
 
 ## 🙏 Acknowledgments
