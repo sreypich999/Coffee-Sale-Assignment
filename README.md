@@ -5,10 +5,10 @@
 [![Pentaho](https://img.shields.io/badge/Pentaho-DI-orange.svg)](https://www.hitachivantara.com/)
 
 <p align="center">
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="80" height="80"/>
-  <img src="https://avatars.githubusercontent.com/u/5635139?s=200&v=4" alt="Pentaho" width="80" height="80"/>
+  <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/logo.png" alt="PostgreSQL" width="80" height="80"/>
+  <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/pdi.png" alt="Pentaho" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/jgraph/drawio/master/src/main/webapp/images/drawio-logo.svg" alt="DrawIO" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/metabase/metabase/master/resources/frontend_client/app/assets/img/metabase_logo.svg" alt="Metabase" width="80" height="80"/>
+  <img src="https://github.com/sreypich999/Coffee-Sale-Assignment/blob/main/png-clipart-metabase-logo-landscape-tech-companies.png" alt="Metabase" width="80" height="80"/>
 </p>
 
 > A comprehensive data warehouse solution for coffee sales analytics using modern ETL and BI tools.
@@ -257,20 +257,7 @@ The schema supports complex queries like:
     - Open the provided PDF dashboard files for static visualizations
     - Connect Metabase to the database for real-time data access
 
-## 🤝 Contributing
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Test ETL processes thoroughly
-5. Commit your changes (`git commit -m 'Add amazing feature'`)
-6. Push to the branch (`git push origin feature/amazing-feature`)
-7. Open a Pull Request
 
-## 📄 License
-This project is for educational purposes. Please refer to team guidelines for usage permissions.
-
-## 📞 Contact
-For questions or support, please contact the project team.
 
 ## 🙏 Acknowledgments
 - Built with modern data warehousing best practices
