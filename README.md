@@ -271,7 +271,9 @@ The schema supports complex queries like:
   <a href="https://github.com/PiseyVONG">
     <img src="https://img.shields.io/badge/PiseyVONG-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="PiseyVONG"/>
   </a>
-  <img src="https://img.shields.io/badge/Vorn%20Seavmey-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Vorn Seavmey"/>
+  <a href="https://github.com/meyseav">
+    <img src="https://img.shields.io/badge/Vorn%20Seavmey-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Vorn Seavmey"/>
+  </a>
 </p>
 
 <p align="center">
@@ -279,11 +281,10 @@ The schema supports complex queries like:
 </p>
 
 
-
-
 ## 🙏 Acknowledgments
 - Built with modern data warehousing best practices
 - Special thanks to the Pentaho and Metabase communities
+
 
 
 
