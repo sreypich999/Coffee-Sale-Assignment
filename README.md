@@ -22,7 +22,8 @@
 - [Usage](#-usage)
 - [Database Schema](#-database-schema)
 - [Project Structure](#-project-structure)
-
+- [Team Members](#-team-members)
+- [Acknowledgments](#-acknowledgments)
 
 ## 🎯 Overview
 This team project focuses on building a data warehouse solution for coffee sales analysis. The project includes ETL (Extract, Transform, Load) processes using Pentaho Data Integration (Kettle) to create dimensional models for customers, products, and sales facts. It demonstrates data warehousing concepts through practical implementation of star schema design and interactive dashboard visualization.
@@ -256,11 +257,34 @@ The schema supports complex queries like:
     - Open the provided PDF dashboard files for static visualizations
     - Connect Metabase to the database for real-time data access
 
+## 👩‍💻 Team Members
+
+> Together we brew insights — powered by collaboration and caffeine ☕🚀
+
+<p align="center">
+  <a href="https://github.com/Guardian007-Moon">
+    <img src="https://img.shields.io/badge/Guardian007--Moon-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Guardian007-Moon"/>
+  </a>
+  <a href="https://github.com/mengsoklin">
+    <img src="https://img.shields.io/badge/mengsoklin-FF4081?style=for-the-badge&logo=github&logoColor=white" alt="mengsoklin"/>
+  </a>
+  <a href="https://github.com/PiseyVONG">
+    <img src="https://img.shields.io/badge/PiseyVONG-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="PiseyVONG"/>
+  </a>
+  <img src="https://img.shields.io/badge/Vorn%20Seavmey-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Vorn Seavmey"/>
+</p>
+
+<p align="center">
+  <sub>💡 Building modern data solutions with precision, teamwork, and a shared love for great coffee.</sub>
+</p>
+
+
 
 
 ## 🙏 Acknowledgments
 - Built with modern data warehousing best practices
 - Special thanks to the Pentaho and Metabase communities
+
 
 
 
